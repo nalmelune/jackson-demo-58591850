@@ -1,0 +1,43 @@
+{
+  "totalCount": 1,
+  "results": [
+    {
+      "teleCommunications": [
+        {
+          "areaCode": "100",
+          "telephoneNumber": "300-2444",
+          "internationalAreaCode": "",
+          "communicationType": 1
+        },
+        {
+          "areaCode": "100",
+          "telephoneNumber": "200-2555",
+          "internationalAreaCode": "",
+          "communicationType": 5
+        }
+      ],
+      "delegate": {
+        "id": 0,
+        "range": 0
+      },
+      "name": "Andrew",
+      "composedKey": {
+        "id": 615,
+        "range": 50
+      },
+      "isBranchAddress": false,
+      "emailAddresses": [
+        {
+          "emailAddressType": 9,
+          "emailAddress": "andrew.brown@gmail.com"
+        }
+      ],
+      "name": "Brown",
+      "zipCodeCity": "65760 Leipzig",
+      "salutation": "Mr.",
+      "openingDate": "2019-09-20",
+      "streetHouseNumber": "Offenbach. 37",
+      "modificationTimestamp": "2018-01-27"
+    }
+  ]
+}
